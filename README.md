@@ -6,7 +6,7 @@ Bachelor’s in Software Engineering | Istanbul, Turkey
 ---
 
 ## 🔭 Currently
-- AI training  
+- Fine Tuner app
 - Shipping mobile applications  
 - Developing 2D VR applications  
 - Working on freelance projects
@@ -50,5 +50,6 @@ Bachelor’s in Software Engineering | Istanbul, Turkey
 
 ## 📫 Connect 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/serhat-celik1/)  
+
 
 
