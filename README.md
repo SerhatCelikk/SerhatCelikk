@@ -41,11 +41,14 @@ Bachelor’s in Software Engineering | Istanbul, Turkey
 ---
 
 ## 🎓 Education
+
 **Maltepe University** – B.Sc. Software Engineering (English, full scholarship)
 
 **Mondragon University** - B.Sc. Computer Engineering (English, Exchange Program)
+
 ---
 
 ## 📫 Connect 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/serhat-celik1/)  
+
 
