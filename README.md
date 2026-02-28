@@ -14,7 +14,7 @@ Bachelor’s in Software Engineering | Istanbul, Turkey
 ## 👨‍💻 Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, Python, Java  
 - **Front-end:** React, React Native, Next.js, Vite.js, SASS/SCSS, HTML5, CSS3  
-- **Back-end:** Django, Flask, Gunicorn, Nginx  
+- **Back-end:** Django, Flask, Gunicorn, Nginx, NestJS, Java Spring  
 - **State & Data:** Redux, Context API, REST & GraphQL APIs  
 - **Tools:** Webpack, Babel, Git, Docker, PostgreSQL, Redis, Celery  
 - **Blockchain:** Solidity Smart Contracts (EVM), Ethers.js, Web3.js  
@@ -50,6 +50,7 @@ Bachelor’s in Software Engineering | Istanbul, Turkey
 
 ## 📫 Connect 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/serhat-celik1/)  
+
 
 
 
